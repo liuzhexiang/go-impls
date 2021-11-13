@@ -23,4 +23,4 @@
 ❌ radix
 
 ### note
-- [This page](https://oeis.org/A033622) inspired the gap sequence.(Shell Sort)
+- [This page](https://oeis.org/A033622) inspired me the gap sequence.(Shell Sort)
