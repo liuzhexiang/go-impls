@@ -29,6 +29,9 @@ var funcs = []struct {
 	{"heap", HeapSort},
 	{"count", CountingSort},
 	{"shell", ShellSort},
+	{"quick", QuickSort},
+	{"radix", RadixSort},
+	{"bucket", BucketSort},
 }
 
 func TestSort(t *testing.T) {
